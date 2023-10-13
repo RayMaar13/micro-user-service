@@ -1,3 +1,3 @@
-import app from "../bin/www.js";
+import app from "../app.js";
 
 export  default  app;
