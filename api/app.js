@@ -3,9 +3,9 @@ const path = require('path');
 const cookieParser = require('cookie-parser');
 const logger = require('morgan');
 
-const indexRouter = require('./routes/index');
-const usersRouter = require('./routes/users');
-const refreshToken = require('./routes/refreshToken');
+const indexRouter = require('../routes');
+const usersRouter = require('../routes/users');
+const refreshToken = require('../routes/refreshToken');
 
 const app = express();
 
