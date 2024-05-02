@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b5901a9-6aa2-4557-9eea-e1e22c7cc731" name="Changes" comment="add node modules to gitignore">
+    <list default="true" id="7b5901a9-6aa2-4557-9eea-e1e22c7cc731" name="Changes" comment="adding ekstention">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +92,8 @@
       <updated>1693110967837</updated>
       <workItem from="1693110968931" duration="161000" />
       <workItem from="1697169656901" duration="951000" />
+      <workItem from="1697351107969" duration="8000" />
+      <workItem from="1698492688604" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="ccv">
       <option name="closed" value="true" />
@@ -140,7 +143,39 @@
       <option name="project" value="LOCAL" />
       <updated>1697177537537</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change package json">
+      <option name="closed" value="true" />
+      <created>1697177810038</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697177810038</updated>
+    </task>
+    <task id="LOCAL-00008" summary="change type module">
+      <option name="closed" value="true" />
+      <created>1697178064252</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697178064252</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adding ekstention">
+      <option name="closed" value="true" />
+      <created>1697178215290</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697178215290</updated>
+    </task>
+    <task id="LOCAL-00010" summary="adding ekstention">
+      <option name="closed" value="true" />
+      <created>1697178379796</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697178379796</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +187,9 @@
     <MESSAGE value="ccvxz" />
     <MESSAGE value="Add mysql2 manually" />
     <MESSAGE value="add node modules to gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add node modules to gitignore" />
+    <MESSAGE value="change package json" />
+    <MESSAGE value="change type module" />
+    <MESSAGE value="adding ekstention" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding ekstention" />
   </component>
 </project>
